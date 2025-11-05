@@ -41,6 +41,12 @@ h4 {
 
 }
 
+.topnav a.deliverable{
+    float: right;
+    border-left: 1px white;
+    border-right: 1px black;
+}
+
 
  h1 span {
     display: block;
